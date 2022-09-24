@@ -1,0 +1,32 @@
+{
+  "editor.fontFamily": "\"Fira Code\"",
+  "editor.fontSize": 14,
+  "workbench.iconTheme": "city-lights-icons-vsc-light",
+  "workbench.colorTheme": "City Lights",
+  "explorer.confirmDragAndDrop": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "explorer.confirmDelete": false,
+
+  "editor.scrollbar.vertical": "visible",
+  "editor.scrollbar.verticalScrollbarSize": 6,
+  "notebook.cellToolbarLocation": {
+    "default": "right"
+  },
+  "editor.minimap.enabled": false,
+
+  "indentRainbow.colors": [
+    "rgba(255, 11, 67, 0.09)",
+    "rgba(127,255,127,0.09)",
+    "rgba(255,127,255,0.09)",
+    "rgba(79,236,236,0.09)"
+  ],
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.inlineSuggest.enabled": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontLigatures": true
+}
