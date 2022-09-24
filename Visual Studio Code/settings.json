@@ -4,7 +4,6 @@
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.renderWhitespace": "all",
-  // "workbench.colorTheme": "Cobalt Next",
   "workbench.colorTheme": "City Lights",
   "workbench.iconTheme": "city-lights-icons-vsc-light",
   "explorer.confirmDragAndDrop": false,
@@ -38,7 +37,6 @@
   "editor.tabSize": 2,
   "editor.fontLigatures": true,
 
-  // Terminal
   "terminal.integrated.fontFamily": "Cascadia Code PL",
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.cursorBlinking": true,
