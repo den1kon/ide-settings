@@ -1,11 +1,20 @@
 {
   "editor.fontFamily": "\"Fira Code\"",
   "editor.fontSize": 14,
-  "workbench.iconTheme": "city-lights-icons-vsc-light",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.renderWhitespace": "all",
+  // "workbench.colorTheme": "Cobalt Next",
   "workbench.colorTheme": "City Lights",
+  "workbench.iconTheme": "city-lights-icons-vsc-light",
   "explorer.confirmDragAndDrop": false,
-  "security.workspace.trust.untrustedFiles": "open",
-  "explorer.confirmDelete": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.renderControlCharacters": true,
+
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
 
   "editor.scrollbar.vertical": "visible",
   "editor.scrollbar.verticalScrollbarSize": 6,
@@ -27,6 +36,13 @@
   },
 
   "editor.tabSize": 2,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.fontLigatures": true
+  "editor.fontLigatures": true,
+
+  // Terminal
+  "terminal.integrated.fontFamily": "Cascadia Code PL",
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorWidth": 3,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.lineHeight": 1.2
 }
