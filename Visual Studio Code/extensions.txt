@@ -4,7 +4,6 @@ be5invis.vscode-custom-css
 bradlc.vscode-tailwindcss
 christian-kohler.npm-intellisense
 christian-kohler.path-intellisense
-csstools.postcss
 dbaeumer.vscode-eslint
 dline.CobaltNext
 eamodio.gitlens
